@@ -436,7 +436,7 @@ article a:hover{
 	      
 
 #projects{
-    padding: 2em 0 0 0;
+    padding: 3em 0 0 0;
     }  
            
     
@@ -621,7 +621,7 @@ i a{
 	 display: block;
      }       
  
- i a:hover{
+i a:hover{
      opacity: .6;
      -webkit-transition: all 0.8s ease-in-out;  /* Chrome, Safari 3.2+ */
      -moz-transition: all 0.8s ease-in-out;  /* Firefox 4-15 */
