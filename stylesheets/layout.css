@@ -1,13 +1,7 @@
 /* Copyright 2012, Scot Criswell
-www.scotcriswell.com
-Author: Scot Criswell
+   www.scotcriswell.com
+   Author: Scot Criswell
 
-
-Table of Content
-==================================================
-   	#CSS Resets
-	#Site Styles
-	#Media Queries
 
 
 CSS Resets
@@ -776,7 +770,6 @@ footer{
 		text-align: left; 
 		font-size: 1em; 
 		color: #222; 
-		text-transform: uppercase;
 	    }
 	
 	input {
@@ -784,15 +777,14 @@ footer{
 		height: 2em; 
 		padding: .25em 1em 0px 1em; 
 		margin: 0 0 1.25em 0; 
-		background: #ffffff;
+		background: #D3D3D3;
 		border: none;
 		border-radius: .26em; 
 		-moz-border-radius: .26em; 
 		-webkit-border-radius: .26em;
-		font-family: sans-serif; 
+		font-family: "futura-pt",'Open Sans', sans-serif; 
 		font-size: 1em; 
-		color: #f2f2f2; 
-		text-transform: uppercase; 
+		color: #222;  
 	    }
 	
 	textarea {
@@ -800,22 +792,21 @@ footer{
 		height: 10em; 
 		padding: .25em 1em 0px 1em; 
 		margin: 0 0 1.25em 0; 
-		background: #ffffff;
+		background: #D3D3D3;
 		border-radius: .26em; 
 		-moz-border-radius: .26em; 
 		-webkit-border-radius:.26em;
-		font-family: sans-serif; 
+		font-family: "futura-pt",'Open Sans', sans-serif; 
 		font-size: 1em; 
-		color: #f2f2f2; 
-		text-transform: uppercase; 
+		color: #222;  
 		}
 		
 	input:focus {
-		background: #D3D3D3;
+		background: #f3f3f3;
 	    }
 				
 	textarea:focus {
-		background: #D3D3D3;
+		background: #f3f3f3;
 	    }
 	
 	input[type=submit] {
@@ -879,15 +870,14 @@ footer{
 		height: 2em; 
 		padding: .25em 1em 0px 1em; 
 		margin: 0 0 1.25em 0; 
-		background: #ffffff;
+		background: #d3d3d3;
 		border: none;
 		border-radius: .26em; 
 		-moz-border-radius: .26em; 
 		-webkit-border-radius: .26em;
-		font-family: sans-serif; 
+		font-family: "futura-pt",'Open Sans', sans-serif; 
 		font-size: 1em; 
-		color: #f2f2f2; 
-		text-transform: uppercase; 
+		color: #222; 
 	    }
 	
 	textarea {
@@ -895,14 +885,13 @@ footer{
 		height: 10em; 
 		padding: .25em 1em 0px 1em; 
 		margin: 0 0 1.25em 0; 
-		background: #ffffff;
+		background: #d3d3d3;
 		border-radius: .26em; 
 		-moz-border-radius: .26em; 
 		-webkit-border-radius:.26em;
-		font-family: sans-serif; 
+		font-family: "futura-pt",'Open Sans', sans-serif; 
 		font-size: 1em; 
-		color: #f2f2f2; 
-		text-transform: uppercase; 
+		color: #222;  
 		}
 			    		    
 	#contact{
