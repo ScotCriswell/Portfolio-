@@ -901,7 +901,14 @@ footer{
 	    opacity: .9;   
 	    }	
 	
-	
+	#thanks{
+		 font-family: "futura-pt",'Open Sans', sans-serif;;
+		 color: #f3f3f3;
+		 font-size: 1.75em;
+		 text-align: center;
+		 font-weight: 600;
+		 padding: .8em 0 0 0;
+	     } 
 	
 	
 	
@@ -969,7 +976,7 @@ footer{
 	
 	h1{
 	    font-size: 2em;	
-	    padding: 5em 0 0 0;
+	    padding: 4.75em 0 0 0;
 	    }
 	    
 	h2{
@@ -1031,7 +1038,14 @@ footer{
 	     padding: 1em 0 0 0;
 	     }	
 	
-	
+	#thanks{
+		 font-family: "futura-pt",'Open Sans', sans-serif;;
+		 color: #f3f3f3;
+		 font-size: 1.5em;
+		 text-align: center;
+		 font-weight: 600;
+		 padding: .8em 0 0 0;
+	     }    
 	
 	}
 
